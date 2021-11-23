@@ -1,0 +1,36 @@
+body {
+    background-color: #002347;
+    color: #fff;
+}
+
+h2 {
+    color: #fefae0;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+.my-description {
+    font-style: italic;
+    color: aqua;
+}
+
+.assignment {
+    line-height: 20px;
+    color: #fec89a;
+}
+
+.text-decoration {
+    text-decoration: none;
+    color: #fefae0;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+p {
+    color: black;
+}
