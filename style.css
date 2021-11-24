@@ -1,5 +1,5 @@
 body {
-    background-color: #002347;
+    background-color: #ffffff;
     color: #fff;
 }
 
@@ -8,29 +8,60 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 20px;
+}
+
+.about {
+    color: black;
+    font-weight: bold;
+    font-size: 26px;
+    padding: 20px;
+}
+
+.name {
+    background-color: rgba(27, 27, 34, 0.774);
+    margin: 0 10px;
+    padding: 5px;
+}
+
 img {
     width: 250px;
     border-radius: 10px;
+    background-color: black;
+    padding: 10px;
+    margin-top: 20px;
 }
 
 .my-description {
-    font-style: italic;
-    color: aqua;
+    width: 30%;
+    margin: auto;
+    color: black;
+}
+
+.my-description p {
+    float: right;
+    margin: 60px 3px;
+    
 }
 
 .assignment {
     line-height: 20px;
-    color: #fec89a;
+    color: #000000;
+    font-size: 17px;
 }
 
 .text-decoration {
     text-decoration: none;
-    color: #fefae0;
+    color: black;
     font-weight: bold;
-    font-size: 16px;
-    line-height: 25px;
+    font-size: 17px;
+    line-height: 10px;
 }
 
-p {
+.textdecoration ul li a p {
     color: black;
 }
